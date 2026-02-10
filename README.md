@@ -30,8 +30,8 @@
 </div>
 
 ## 💻 Tech Stack
-</div>
 
+<div align="center">
 ### 👨‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -105,6 +105,7 @@
 
 ## 📊 GitHub Stats
 
+<div align="center">
 ![](https://github-readme-stats.vercel.app/api?username=Samarth-J&theme=dark)
 <br>
 ![](https://nirzak-streak-stats.vercel.app/?user=Samarth-J&theme=dark)
@@ -112,6 +113,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-J&theme=dark&layout=compact)
 
 ---
+</div>
+
 
 ## 🏆 GitHub Trophies
 
