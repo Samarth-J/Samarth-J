@@ -22,6 +22,7 @@
 ## 🌐 Connect With Me
 
 <div align="center">
+  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mr_samarth_j_18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-jodatti-58b388303)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samarthmj123@gmail.com)
@@ -32,6 +33,7 @@
 ## 💻 Tech Stack
 
 <div align="center">
+  
 ### 👨‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -106,6 +108,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api?username=Samarth-J&theme=dark)
 <br>
 ![](https://nirzak-streak-stats.vercel.app/?user=Samarth-J&theme=dark)
