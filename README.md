@@ -1,4 +1,4 @@
-<div align="center">
+
 
 <h1>👋🏻 Hi, I'm Samarth Jodatti</h1>
 <h3>⚡ I love creating new things</h3>
@@ -109,6 +109,6 @@
 
 [![](https://visitcount.itsvg.in/api?id=Samarth-J&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
+
 
 
