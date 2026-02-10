@@ -1,4 +1,4 @@
-
+<div align="center">
 
 <h1>👋🏻 Hi, I'm Samarth Jodatti</h1>
 <h3>⚡ I love creating new things</h3>
@@ -7,6 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Java+Full+Stack+Developer;Passionate+Problem+Solver;Always+Learning+New+Tech" />
 
 ---
+</div>
 
 ## 💫 About Me
 
