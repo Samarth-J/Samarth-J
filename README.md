@@ -5,7 +5,7 @@ Turning imagination into reality 🚀
 
 
 # 💫 About Me:
-🔭 I’m current pursuing AI And Data Science<br>👯 I’m doing internship at Jspider<br>🌱 I’m currently learning Java full stack<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m current pursuing AI And Data Science<br>👯 I’m doing internship at Jspider<br>🌱 I’m currently learning Java full stack Development <br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
