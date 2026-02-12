@@ -17,6 +17,21 @@
 💬 Ask me about **Java, Web Dev, AI/ML**  
 ⚡ Fun fact: I enjoy simplifying complex problems  
 
+💻 Passionate developer focused on building scalable and efficient web applications.  
+
+🎓 **Education:** B.E. in Artificial Intelligence & Data Science  
+🏫 **College:** Government Engineering College Nargund  
+📍 **Location:** Belgavi, India
+📊 **Current SGPA:** 8.4/10   
+
+💡 **Passionate About:**  
+- Full-Stack Development  
+- Problem Solving  
+- Artificial Intelligence & Machine Learning  
+  
+📫 **Reach Me:** samarthmj123@gmail.com  
+📱 **Phone:** +91 7795462755
+
 ---
 
 ## 🌐 Connect With Me
