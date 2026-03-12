@@ -129,11 +129,8 @@
 
 # 🏆 GitHub Trophies
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Samarth-J&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7" />
-</p>
+<div align="center"> <!-- GitHub Profile Trophy --> <img src="https://github-profile-trophy.vercel.app/?username=Samarth-J&theme=radical&margin-w=10" /> <br><br>
 ---
 
 # 🐍 Contribution Snake
