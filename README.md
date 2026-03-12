@@ -118,6 +118,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-J&layout=compact&theme=dark)
 
 </div>
+<div align="center"> ![](https://github-readme-stats.vercel.app/api?username=Samarth-J&show_icons=true&theme=dark&hide_border=false) ![](https://nirzak-streak-stats.vercel.app/?user=Samarth-J&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-J&layout=compact&theme=dark&hide_border=false) --- </div>
 
 ---
 
@@ -148,11 +149,6 @@
 
 ---
 
-<div align="center">
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=Samarth-J&icon=5&color=6)
-
-</div>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
