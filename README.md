@@ -131,7 +131,7 @@
 
 
 # 🏆 GitHub Trophies & Achievements 
-<div align="center"> <!-- GitHub Profile Trophy --> <img src="https://github-profile-trophy.vercel.app/?username=Samarth-J&theme=radical&margin-w=10" /> <br><br> <!-- GitHub Achievements Badges --> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO Badge"/> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Badge"/> <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw Badge"/> <br><br> <b>YOLO</b> &nbsp; • &nbsp; <b>Pull Shark</b> &nbsp; • &nbsp; <b>Quickdraw</b>
+<div align="center">  <br><br> <!-- GitHub Achievements Badges --> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO Badge"/> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Badge"/> <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw Badge"/> <br><br> <b>YOLO</b> &nbsp; • &nbsp; <b>Pull Shark</b> &nbsp; • &nbsp; <b>Quickdraw</b>
 </div>
 
 # 🐍 Contribution Snake
