@@ -118,7 +118,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-J&layout=compact&theme=dark)
 
 </div>
-<div align="center"> ![](https://github-readme-stats.vercel.app/api?username=Samarth-J&show_icons=true&theme=dark&hide_border=false) ![](https://nirzak-streak-stats.vercel.app/?user=Samarth-J&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-J&layout=compact&theme=dark&hide_border=false) --- </div>
+
 
 ---
 
