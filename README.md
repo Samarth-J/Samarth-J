@@ -1,44 +1,59 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Samarth%20Jodatti&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+</p>
+
 <div align="center">
 
-<h1>👋🏻 Hi, I'm Samarth Jodatti</h1>
 <h3>⚡ I love creating new things</h3>
 <h3>🚀 Turning imagination into reality</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Java+Full+Stack+Developer;Passionate+Problem+Solver;Always+Learning+New+Tech" />
 
----
 </div>
 
-## 💫 About Me
+---
+
+# 💫 About Me
 
 🔭 **AI & Data Science** undergraduate  
 👯 Intern at **JSpiders**  
 🌱 Learning **Java Full Stack Development**  
-💬 Ask me about **Java, Web Dev, AI/ML**  
-⚡ Fun fact: I enjoy simplifying complex problems  
+💬 Ask me about **Java, Web Dev, AI/ML**
 
-💻 Passionate developer focused on building scalable and efficient web applications.  
+💻 Passionate developer focused on building scalable and efficient web applications.
 
 🎓 **Education:** B.E. in Artificial Intelligence & Data Science  
 🏫 **College:** Government Engineering College Nargund  
-📍 **Location:** Belgavi, India
-📊 **Current SGPA:** 8.4/10   
-
-💡 **Passionate About:**  
-- Full-Stack Development  
-- Problem Solving  
-- Artificial Intelligence & Machine Learning  
-  
-📫 **Reach Me:** samarthmj123@gmail.com  
-📱 **Phone:** +91 7795462755
+📍 **Location:** Belagavi, India  
+📊 **Current SGPA:** 8.4/10
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Featured Projects
 
-<div align="center">
-  
-## 🌐 Connect With Me
+### 💰 Expense Tracker Web App
+**Tech Stack:** Java, Spring Boot, MySQL, React
+
+Features:
+- Add income and expenses
+- Category-wise analytics
+- Monthly reports
+- Graph visualization
+- Budget alerts
+
+---
+
+### 📊 AI Data Analysis Dashboard
+**Tech Stack:** Python, Pandas, Streamlit
+
+Features:
+- Data cleaning and preprocessing
+- Interactive charts
+- Real-time analysis
+
+---
+
+# 🌐 Connect With Me
 
 <div align="center">
 
@@ -50,12 +65,9 @@
 </div>
 
 ---
-</div>
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-<div align="center">
-  
 ### 👨‍💻 Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -72,107 +84,74 @@
 
 ---
 
-### ⚙️ Frameworks & Libraries
+### ⚙️ Frameworks
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
 ---
 
-### 🧠 AI / ML & Data Science
+### 🧠 AI / ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FE4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
-### 📊 Data Visualization & BI
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-
----
-
-### 🗄️ Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### 🛠️ Tools & IDEs
+### 🛠 Tools
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 
 ---
 
-### 🎨 Creative Tools
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-</div>
-
-
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
-  
 
+![](https://github-readme-stats.vercel.app/api?username=Samarth-J&show_icons=true&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api?username=Samarth-J&show_icons=true&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Samarth-J&theme=dark)
 
-![](https://nirzak-streak-stats.vercel.app/?user=Samarth-J&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-J&layout=compact&theme=dark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-J&layout=compact&theme=dark&hide_border=false)
-
+</div>
 
 ---
-</div>
 
-
-## 🏆 GitHub Trophies & Achievements
+# 🏆 GitHub Trophies
 
 <div align="center">
 
-<!-- GitHub Profile Trophy -->
 <img src="https://github-profile-trophy.vercel.app/?username=Samarth-J&theme=radical&margin-w=10" />
 
-<br><br>
-
-<!-- GitHub Achievements Badges -->
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO Badge"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Badge"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw Badge"/>
-
-<br><br>
-
-<b>YOLO</b> &nbsp; • &nbsp; <b>Pull Shark</b> &nbsp; • &nbsp; <b>Quickdraw</b>
-
 </div>
 
-### ✍️ Random Dev Quote
+---
+
+# 🎯 Current Focus
+
+- 🚀 Building Java Full Stack Projects
+- 📊 Practicing Data Structures & Algorithms
+- 🤖 Exploring AI & Machine Learning
+- 🌱 Contributing to Open Source
+
+---
+
+# ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
+<div align="center">
+
 [![](https://visitcount.itsvg.in/api?id=Samarth-J&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-
-
+</div>
