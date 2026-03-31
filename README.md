@@ -109,16 +109,17 @@
 
 # 📊 GitHub Stats
 
+# 📊 GitHub Stats
+
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Samarth-J&show_icons=true&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api?username=Samarth-J&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Samarth-J&theme=dark)
+<img src="https://streak-stats.demolab.com?user=Samarth-J&theme=tokyonight&hide_border=true" height="170"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-J&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-J&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
-
 
 ---
 
