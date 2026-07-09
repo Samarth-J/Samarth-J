@@ -4,11 +4,10 @@
 
 <div align="center">
 
-<!-- <h1>👋🏻 Hi, I'm Samarth Jodatti</h1> -->
 <h3>⚡ I love creating new things</h3>
 <h3>🚀 Turning imagination into reality</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Java+Full+Stack+Developer;Passionate+Problem+Solver;Always+Learning+New+Tech" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Java+Full+Stack+Developer;Spring+Boot+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -16,24 +15,15 @@
 
 # 💫 About Me
 
-🔭 **AI & Data Science** undergraduate  
-👯 Intern at **JSpiders**  
-🌱 Learning **Java Full Stack Development**  
-💬 Ask me about **Java, Web Dev, AI/ML**  
-
-💻 Passionate developer focused on building scalable and efficient web applications.
-
-🎓 **Education:** B.E. in Artificial Intelligence & Data Science  
-🏫 **College:** Government Engineering College Nargund  
-📍 **Location:** Belagavi, India  
-📊 **Current SGPA:** 8.4/10
-
-💡 **Passionate About**
-* Full-Stack Development  
-* Problem Solving  
-* Artificial Intelligence & Machine Learning  
-
-📫 **Reach Me:** samarthmj123@gmail.com
+- 🔭 AI & Data Science Undergraduate
+- 👨‍💻 Java Full Stack Developer
+- 💼 Java Full Stack Intern @ JSpiders
+- 🌱 Currently learning Spring Boot, Spring MVC, Hibernate & React
+- 💬 Ask me about Java, Spring, SQL, AI/ML
+- 📍 Belagavi, India
+- 🎓 Government Engineering College Nargund
+- 📊 SGPA: **8.4/10**
+- 📫 Email: **samarthmj123@gmail.com**
 
 ---
 
@@ -42,9 +32,9 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samarthmj.netlify.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_samarth_j_18)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-jodatti-58b388303)
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthmj123@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_samarth_j_18)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthmj123@gmail.com)
 
 </div>
 
@@ -52,19 +42,15 @@
 
 # 💻 Tech Stack
 
-<div align="center">
+## 👨‍💻 Languages
 
-## 👨‍💻 Programming Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
-
-## 🌐 Frontend Technologies
+## 🌐 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -72,97 +58,80 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
----
+## ☕ Java Backend
 
-## ⚙️ Java Backend Technologies
-
-![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Servlet](https://img.shields.io/badge/Servlet-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
 
----
-
-## 🚀 JavaScript Frameworks & Libraries
+## ⚛️ Frameworks
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
----
-
-## 🧠 AI / ML & Data Science
+## 🤖 AI / ML
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
----
-
-## 🗄️ Databases
+## 🗄️ Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
+## 🛠 Tools
 
-## ☁️ Cloud & Deployment
-
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 🛠️ Tools & IDEs
-
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
 
-</div>
+---
+
+# 🚀 Featured Projects
+
+- 🌾 Smart Agri Tech
+- 🛒 Urban Bazaar E-Commerce
+- 💰 Personal Expense Manager
 
 ---
 
 # 📊 GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Samarth-J&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-
-<img src="https://streak-stats.demolab.com?user=Samarth-J&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-J&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Samarth-J&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Samarth-J&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-J&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-# 📈 GitHub Activity Graph
+# 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samarth-J&theme=tokyo-night"/>
 
 ---
 
+# 🏆 GitHub Trophies
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Samarth-J&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
 
-
-# 🏆 GitHub Trophies & Achievements 
-<div align="center">  <br><br> <!-- GitHub Achievements Badges --> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO Badge"/> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Badge"/> <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw Badge"/> <br><br> <b>YOLO</b> &nbsp; • &nbsp; <b>Pull Shark</b> &nbsp; • &nbsp; <b>Quickdraw</b>
-</div>
+---
 
 # 🐍 Contribution Snake
 
@@ -172,9 +141,9 @@
 
 ---
 
-# ✍️ Random Dev Quote
+# ✍ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
