@@ -1,182 +1,227 @@
+````markdown
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Samarth%20Jodatti&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Samarth%20Jodatti&fontAlign=50&fontAlignY=40&fontSize=60&desc=Java%20Backend%20Developer%20•%20AI%20Engineer%20•%20Problem%20Solver&descAlign=50&descAlignY=62&animation=fadeIn"/>
 </p>
 
-<div align="center">
+<h1 align="center">Hi 👋, I'm Samarth Jodatti</h1>
 
-<!-- <h1>👋🏻 Hi, I'm Samarth Jodatti</h1> -->
-<h3>⚡ I love creating new things</h3>
-<h3>🚀 Turning imagination into reality</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Java+Full+Stack+Developer;Passionate+Problem+Solver;Always+Learning+New+Tech" />
-
-</div>
-
----
-
-# 💫 About Me
-
-🔭 **AI & Data Science** undergraduate  
-👯 Intern at **JSpiders**  
-🌱 Learning **Java Full Stack Development**  
-💬 Ask me about **Java, Web Dev, AI/ML**  
-
-💻 Passionate developer focused on building scalable and efficient web applications.
-
-🎓 **Education:** B.E. in Artificial Intelligence & Data Science  
-🏫 **College:** Government Engineering College Nargund  
-📍 **Location:** Belagavi, India  
-📊 **Current SGPA:** 8.4/10
-
-💡 **Passionate About**
-* Full-Stack Development  
-* Problem Solving  
-* Artificial Intelligence & Machine Learning  
-
-📫 **Reach Me:** samarthmj123@gmail.com
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samarthmj.netlify.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_samarth_j_18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-jodatti-58b388303)
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthmj123@gmail.com)
-
-</div>
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-## 👨‍💻 Programming Languages
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
----
-
-## 🌐 Frontend Technologies
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-
----
-
-## ⚙️ Java Backend Technologies
-
-![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
-![Servlet](https://img.shields.io/badge/Servlet-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
----
-
-## 🚀 JavaScript Frameworks & Libraries
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
-
----
-
-## 🧠 AI / ML & Data Science
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
----
-## 🗄️ Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
----
-
-## ☁️ Cloud & Deployment
-
-![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
----
-
-## 🛠️ Tools & IDEs
-
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samarth-J&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com/?user=Samarth-J&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-J&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-# 📈 GitHub Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samarth-J&theme=tokyo-night"/>
-
----
-
-
-
-
-# 🏆 GitHub Trophies & Achievements 
-<div align="center">  <br><br> <!-- GitHub Achievements Badges --> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO Badge"/> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Badge"/> <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw Badge"/> <br><br> <b>YOLO</b> &nbsp; • &nbsp; <b>Pull Shark</b> &nbsp; • &nbsp; <b>Quickdraw</b>
-</div>
-
-# 🐍 Contribution Snake
+<h3 align="center">
+Java Backend Developer • AI & Data Science Student • Open Source Enthusiast
+</h3>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Applications;Spring+Boot+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New+🚀"/>
+
 </p>
 
 ---
 
-# ✍️ Random Dev Quote
+# 🚀 About Me
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+```yaml
+Name: Samarth Jodatti
+
+Education:
+  Degree: B.E.
+  Branch: Artificial Intelligence & Data Science
+
+Current Focus:
+  - Java Backend Development
+  - Spring Boot
+  - REST APIs
+  - AI & Machine Learning
+  - Data Structures & Algorithms
+
+Currently Learning:
+  - Spring Security
+  - Microservices
+  - Docker
+  - Kubernetes
+  - System Design
+
+Open To:
+  - Software Engineering Internship
+  - Java Backend Roles
+  - Open Source Collaboration
+```
+
+---
+
+# 🌍 Connect With Me
+
+<p align="center">
+
+<a href="https://samarthmj.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:samarthmj123@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/samarth-jodatti-58b388303">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://instagram.com/mr_samarth_j_18">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ⚙️ Tech Stack
+
+### 💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css"/>
+
+</p>
+
+### 🌐 Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs"/>
+
+</p>
+
+### 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind"/>
+
+</p>
+
+### 🗄 Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+
+</p>
+
+### ☁ Cloud & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=azure,git,github,docker,postman,maven,vscode,idea,eclipse"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Samarth-J&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Samarth-J&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-J&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samarth-J&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Samarth-J&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| 🌾 Smart Agri Tech | AI-powered agriculture platform | Spring Boot • AI • MongoDB |
+| 🛒 Urban Bazaar | Full Stack E-Commerce Application | Java • Spring Boot • MySQL |
+| 💰 Personal Expense Manager | Expense Tracking System | Spring Boot • React |
+| 🤖 AI Chat Assistant | Local LLM Powered Assistant | Python • Ollama |
+
+---
+
+# 📊 Coding Profiles
+
+<p align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# ⚡ Fun Fact
+
+> **"Code is not just syntax; it's turning imagination into reality."**
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
 </p>
+
+---
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Samarth-J&style=for-the-badge&color=blue"/>
+
+<img src="https://img.shields.io/github/followers/Samarth-J?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/Samarth-J?style=for-the-badge"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer"/>
+
+</p>
+````
