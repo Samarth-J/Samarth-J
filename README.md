@@ -16,26 +16,28 @@
 
 # 💫 About Me
 
-🔭 **AI & Data Science** undergraduate  
-👯 Intern at **JSpiders**  
-🌱 Learning **Java Full Stack Development**  
-💬 Ask me about **Java, Web Dev, AI/ML**  
-
-💻 Passionate developer focused on building scalable and efficient web applications.
-
-🎓 **Education:** B.E. in Artificial Intelligence & Data Science  
-🏫 **College:** Government Engineering College Nargund  
-📍 **Location:** Belagavi, India  
-📊 **Current SGPA:** 8.4/10
-
-💡 **Passionate About**
-* Full-Stack Development  
-* Problem Solving  
-* Artificial Intelligence & Machine Learning  
-
-📫 **Reach Me:** samarthmj123@gmail.com
-
----
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>🔭 <b>AI & Data Science</b> undergraduate</li>
+        <li>👯 Intern at <b>JSpiders</b></li>
+        <li>🌱 Currently mastering <b>Java Full Stack Development</b></li>
+        <li>💬 Ask me about <b>Java, Web Dev, AI/ML</b></li>
+        <li>💻 Building scalable, efficient, and modern web apps</li>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li>🎓 <b>B.E. in AI & Data Science</b></li>
+        <li>🏫 Government Engineering College, Nargund</li>
+        <li>📍 Belagavi, India</li>
+        <li>📊 Current SGPA: <b>8.4/10</b></li>
+        <li>💡 Passionate about <b>Full‑Stack, Problem‑Solving, AI/ML</b></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 # 🌐 Connect With Me
 
