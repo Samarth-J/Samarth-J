@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Samarth%20Jodatti&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
-</p>
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Samarth%20Jodatti&fontSize=60&colorA=00F5FF&colorB=6A00FF&fontColor=ffffff"/>
