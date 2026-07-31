@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,30,48&height=170&section=header&text=SAMARTH%20JODATTI&fontSize=45&fontAlignY=42&animation=twinkling&fontColor=F8FAFC&desc=Software%20Engineer%20%7C%20Problem%20Solver&descSize=14&descAlignY=72&descColor=94A3B8" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Samarth%20Jodatti&fontSize=60&colorA=00F5FF&colorB=6A00FF&fontColor=ffffff"/>
 </p>
 
 <!-- <h1>👋🏻 Hi, I'm Samarth Jodatti</h1> -->
