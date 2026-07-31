@@ -3,6 +3,9 @@
 </p>
 
 <div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0F1D,50:0B2545,100:134074&height=180&section=header&text=Samarth%20Jodatti&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%26%20AI%20Enthusiast&descSize=15&descAlignY=68" />
+</p>
 
 <!-- <h1>👋🏻 Hi, I'm Samarth Jodatti</h1> -->
 <h3>⚡ I love creating new things</h3>
