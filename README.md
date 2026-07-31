@@ -3,12 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=160&section=header&text=Samarth%20Jodatti&fontSize=50&fontAlignY=40&animation=scaleIn&fontColor=00FFCC" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=20,30,48&height=170&section=header&text=SAMARTH%20JODATTI&fontSize=45&fontAlignY=42&animation=twinkling&fontColor=F8FAFC&desc=Software%20Engineer%20%7C%20Problem%20Solver&descSize=14&descAlignY=72&descColor=94A3B8" />
 </p>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=%3COpening+Terminal...%3E;AI+%26+Data+Science+Undergrad;Java+Full-Stack+Architect;Turning+Imagination+Into+Code" />
-</div>
 
 <!-- <h1>👋🏻 Hi, I'm Samarth Jodatti</h1> -->
 <h3>⚡ I love creating new things</h3>
