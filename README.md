@@ -2,10 +2,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Samarth%20Jodatti&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-<div align="center">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:0A0F1D,50:0B2545,100:134074&height=180&section=header&text=Samarth%20Jodatti&fontSize=42&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Full-Stack%20Developer%20%26%20AI%20Enthusiast&descSize=15&descAlignY=68" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&color=000000&height=160&section=header&text=Samarth%20Jodatti&fontSize=50&fontAlignY=40&animation=scaleIn&fontColor=00FFCC" />
 </p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=%3COpening+Terminal...%3E;AI+%26+Data+Science+Undergrad;Java+Full-Stack+Architect;Turning+Imagination+Into+Code" />
+</div>
 
 <!-- <h1>👋🏻 Hi, I'm Samarth Jodatti</h1> -->
 <h3>⚡ I love creating new things</h3>
