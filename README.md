@@ -1,226 +1,116 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,24&height=180&section=header&text=Samarth%20Jodatti&fontSize=50&fontAlignY=40&animation=scaleIn&fontColor=00f2fe&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Java%20Full%20Stack%20Developer&descSize=16&descAlignY=70" />
+</p>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications+%E2%9A%A1;Exploring+Artificial+Intelligence+%26+Machine+Learning+%F0%9F%A4%96;Turning+Complex+Logic+Into+Clean+Code+%E2%9C%A8;Always+Learning%2C+Evolving%2C+and+Building+%F0%9F%9A%80" />
+
+</div>
+
+---
+
+## 💡 About Me
+
+<table align="center">
+<tr>
+  <td width="50%" valign="top">
+
+* 🔭 **Current Focus:** Advancing skills in Java Full-Stack Architecture & AI/ML integration.
+* 👯 **Professional Training:** Interning at **JSpiders**, mastering backend ecosystems and scalable engineering patterns.
+* 🎓 **Education:** B.E. in Artificial Intelligence & Data Science (**SGPA: 8.4/10**).
+* 🏫 **Institution:** Government Engineering College, Nargund.
+
+  </td>
+  <td width="50%" valign="top">
+
+* 📍 **Based In:** Belagavi, Karnataka, India.
+* 💬 **Ask Me About:** Spring Boot, React, Java Ecosystems, Machine Learning, & Database Design.
+* 📫 **Direct Contact:** [samarthmj123@gmail.com](mailto:samarthmj123@gmail.com)
+* ⚡ **Core Philosophy:** *Simplicity is the soul of efficient design.*
+
+  </td>
+</tr>
+</table>
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Samarth%20Jodatti&fontAlign=50&fontAlignY=40&fontSize=60&desc=Java%20Backend%20Developer%20•%20AI%20Engineer%20•%20Problem%20Solver&descAlign=50&descAlignY=62&animation=fadeIn"/>
+  <a href="https://samarthmj.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/samarth-jodatti-58b388303">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/mr_samarth_j_18">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:samarthmj123@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Samarth Jodatti</h1>
+---
 
-<h3 align="center">
-Java Backend Developer • AI & Data Science Student • Open Source Enthusiast
-</h3>
+## 🛠️ Tech Stack & Ecosystems
+
+<div align="center">
+
+### 💻 Programming Languages
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript&perline=4" />
+
+### 🌐 Frontend & UI Engineering
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,angular&perline=7" />
+
+### ⚙️ Backend & Enterprise Frameworks
+<img src="https://skillicons.dev/icons?i=spring,nodejs,hibernate&perline=3" />
+
+### 🧠 AI, ML & Data Science
+<img src="https://skillicons.dev/icons?i=tensorflow,pyTorch,sklearn&perline=3" />
+
+### 🗄️ Databases & Storage
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&perline=3" />
+
+### ☁️ Cloud, Dev Tools & IDEs
+<img src="https://skillicons.dev/icons?i=azure,vercel,netlify,vscode,idea,eclipse,git,github,postman&perline=9" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Samarth-J&show_icons=true&theme=nord&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-J&layout=compact&theme=nord&hide_border=true" width="48%" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.demolab.com/?user=Samarth-J&theme=nord&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Applications;Spring+Boot+Developer;AI+%26+Machine+Learning+Enthusiast;Always+Learning+Something+New+🚀"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samarth-J&theme=nord&hide_border=true&area=true" width="100%" />
 </p>
 
 ---
 
-# 🚀 About Me
-
-Name: Samarth Jodatti
-
-Education:
-  Degree: B.E.
-  Branch: Artificial Intelligence & Data Science
-
-Current Focus:
-  - Java Backend Development
-  - Spring Boot
-  - REST APIs
-  - AI & Machine Learning
-  - Data Structures & Algorithms
-
-Currently Learning:
-  - Spring Security
-  - Microservices
-  - Docker
-  - Kubernetes
-  - System Design
-
-Open To:
-  - Software Engineering Internship
-  - Java Backend Roles
-  - Open Source Collaboration
-
-
----
-
-# 🌍 Connect With Me
+## 🐍 Contribution Snake
 
 <p align="center">
-
-<a href="https://samarthmj.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:samarthmj123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/samarth-jodatti-58b388303">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://instagram.com/mr_samarth_j_18">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-# ⚙️ Tech Stack
-
-### 💻 Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css"/>
-
-</p>
-
-### 🌐 Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs"/>
-
-</p>
-
-### 🎨 Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind"/>
-
-</p>
-
-### 🗄 Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
-
-</p>
-
-### ☁ Cloud & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=azure,git,github,docker,postman,maven,vscode,idea,eclipse"/>
-
-</p>
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Samarth-J&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Samarth-J&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-J&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samarth-J&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Samarth-J&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🌾 Smart Agri Tech | AI-powered agriculture platform | Spring Boot • AI • MongoDB |
-| 🛒 Urban Bazaar | Full Stack E-Commerce Application | Java • Spring Boot • MySQL |
-| 💰 Personal Expense Manager | Expense Tracking System | Spring Boot • React |
-| 🤖 AI Chat Assistant | Local LLM Powered Assistant | Python • Ollama |
-
----
-
-# 📊 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge"/>
-</a>
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-> **"Code is not just syntax; it's turning imagination into reality."**
-
----
-
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
 
 ---
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,24&height=100&section=footer" />
 </p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Samarth-J&style=for-the-badge&color=blue"/>
-
-<img src="https://img.shields.io/github/followers/Samarth-J?style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/Samarth-J?style=for-the-badge"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer"/>
-
-</p>
-
