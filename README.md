@@ -1,4 +1,4 @@
-````markdown
+
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Samarth%20Jodatti&fontAlign=50&fontAlignY=40&fontSize=60&desc=Java%20Backend%20Developer%20•%20AI%20Engineer%20•%20Problem%20Solver&descAlign=50&descAlignY=62&animation=fadeIn"/>
 </p>
@@ -224,4 +224,4 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&section=footer"/>
 
 </p>
-````
+
