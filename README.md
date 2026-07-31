@@ -32,7 +32,7 @@
         <li>🎓 <b>B.E. in AI & Data Science</b></li>
         <li>🏫 Government Engineering College, Nargund</li>
         <li>📍 Belagavi, India</li>
-        <li>📊 Current SGPA: <b>8.4/10</b></li>
+        <li>📊 Current SGPA: <b>8.7/10</b></li>
         <li>💡 Passionate about <b>Full‑Stack, Problem‑Solving, AI/ML</b></li>
       </ul>
     </td>
