@@ -6,6 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=Samarth%20Jodatti&fontSize=60&colorA=00F5FF&colorB=6A00FF&fontColor=ffffff"/>
 </p>
 
+<div align="center"> 
 <!-- <h1>👋🏻 Hi, I'm Samarth Jodatti</h1> -->
 <h3>⚡ I love creating new things</h3>
 <h3>🚀 Turning imagination into reality</h3>
