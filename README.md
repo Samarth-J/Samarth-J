@@ -1,46 +1,39 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=250&section=header&text=Samarth%20Jodatti&fontSize=60&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Samarth%20Jodatti&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
 <div align="center">
-  <h3>⚡ I love creating new things</h3>
-  <h3>🚀 Turning imagination into reality</h3>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Student;Java+Full+Stack+Developer;Passionate+Problem+Solver;Building+Scalable+Web+Applications;Always+Learning+New+Tech" alt="Typing SVG" />
+<!-- <h1>👋🏻 Hi, I'm Samarth Jodatti</h1> -->
+<h3>⚡ I love creating new things</h3>
+<h3>🚀 Turning imagination into reality</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science+Student;Java+Full+Stack+Developer;Passionate+Problem+Solver;Always+Learning+New+Tech" />
+
 </div>
 
 ---
 
 # 💫 About Me
 
-<table>
-  <tr>
-    <td>
-      <ul>
-        <li>🔭 <b>AI & Data Science</b> undergraduate</li>
-        <li>👯 Intern at <b>JSpiders</b></li>
-        <li>🌱 Currently mastering <b>Java Full Stack Development</b></li>
-        <li>💬 Ask me about <b>Java, Web Dev, AI/ML</b></li>
-        <li>💻 Building scalable, efficient, and modern web apps</li>
-      </ul>
-    </td>
-    <td>
-      <ul>
-        <li>🎓 <b>B.E. in AI & Data Science</b></li>
-        <li>🏫 Government Engineering College, Nargund</li>
-        <li>📍 Belagavi, India</li>
-        <li>📊 Current SGPA: <b>8.4/10</b></li>
-        <li>💡 Passionate about <b>Full‑Stack, Problem‑Solving, AI/ML</b></li>
-      </ul>
-    </td>
-  </tr>
-</table>
+🔭 **AI & Data Science** undergraduate  
+👯 Intern at **JSpiders**  
+🌱 Learning **Java Full Stack Development**  
+💬 Ask me about **Java, Web Dev, AI/ML**  
 
-📫 **Reach me:** samarthmj123@gmail.com
+💻 Passionate developer focused on building scalable and efficient web applications.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samarth-J&style=for-the-badge&color=0f2027" alt="profile views"/>
-</p>
+🎓 **Education:** B.E. in Artificial Intelligence & Data Science  
+🏫 **College:** Government Engineering College Nargund  
+📍 **Location:** Belagavi, India  
+📊 **Current SGPA:** 8.4/10
+
+💡 **Passionate About**
+* Full-Stack Development  
+* Problem Solving  
+* Artificial Intelligence & Machine Learning  
+
+📫 **Reach Me:** samarthmj123@gmail.com
 
 ---
 
@@ -48,10 +41,10 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samarthmj.netlify.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_samarth_j_18)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-jodatti-58b388303)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthmj123@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome&logoColor=white)](https://samarthmj.netlify.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mr_samarth_j_18)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/samarth-jodatti-58b388303)
+[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samarthmj123@gmail.com)
 
 </div>
 
@@ -69,7 +62,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🌐 Frontend
+---
+
+## 🌐 Frontend Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -77,7 +72,9 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
 
-## ⚙️ Java Backend
+---
+
+## ⚙️ Java Backend Technologies
 
 ![Spring](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -85,6 +82,8 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Servlet](https://img.shields.io/badge/Servlet-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
 
 ## 🚀 JavaScript Frameworks & Libraries
 
@@ -95,6 +94,8 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
+---
+
 ## 🧠 AI / ML & Data Science
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -104,6 +105,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
+---
 ## 🗄️ Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -111,11 +113,15 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+---
+
 ## ☁️ Cloud & Deployment
 
 ![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
 
 ## 🛠️ Tools & IDEs
 
@@ -132,42 +138,35 @@
 
 ---
 
-# 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Samarth-J&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-  <img height="170" src="https://streak-stats.demolab.com/?user=Samarth-J&theme=radical&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-J&layout=compact&theme=radical&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Samarth-J&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com/?user=Samarth-J&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth-J&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 # 📈 GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samarth-J&theme=react-dark&hide_border=true" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Samarth-J&theme=tokyo-night"/>
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Samarth-J&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="trophies"/>
-</div>
 
-<div align="center">
-  <br>
-  <!-- Manual badges for special achievements -->
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw"/>
-  <br>
-  <b>YOLO</b> &nbsp; • &nbsp; <b>Pull Shark</b> &nbsp; • &nbsp; <b>Quickdraw</b>
+
+# 🏆 GitHub Trophies & Achievements 
+<div align="center">  <br><br> <!-- GitHub Achievements Badges --> <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="100" alt="YOLO Badge"/> <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="100" alt="Pull Shark Badge"/> <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="100" alt="Quickdraw Badge"/> <br><br> <b>YOLO</b> &nbsp; • &nbsp; <b>Pull Shark</b> &nbsp; • &nbsp; <b>Quickdraw</b>
 </div>
 
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -179,5 +178,6 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
 </p>
+
