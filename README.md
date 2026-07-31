@@ -19,7 +19,6 @@ Java Backend Developer • AI & Data Science Student • Open Source Enthusiast
 
 # 🚀 About Me
 
-```yaml
 Name: Samarth Jodatti
 
 Education:
@@ -44,7 +43,7 @@ Open To:
   - Software Engineering Internship
   - Java Backend Roles
   - Open Source Collaboration
-```
+
 
 ---
 
